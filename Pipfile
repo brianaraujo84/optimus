@@ -10,5 +10,7 @@ django-rest-auth = "*"
 django-allauth = "*"
 coreapi = "*"
 django-rest-swagger = "*"
+gunicorn = "*"
+django-heroku = "*"
 
 [dev-packages]
