@@ -19,7 +19,7 @@ oauthlib==2.1.0
 openapi-codec==1.3.2
 pandas==0.23.4
 pandas-drf-tools==0.1.1
-Pillow==5.3.0
+Pillow==8.3.2
 python-dateutil==2.7.5
 python3-openid==3.1.0
 pytz==2018.7
